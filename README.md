@@ -63,5 +63,5 @@ A lógica principal do robô é:
 
 Adicione a imagem da tabela na pasta do projeto e use:
 
-```markdown
+
 ![Tabela de Ligações](pinos.png)
